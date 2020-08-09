@@ -8,10 +8,8 @@ Code and files from content I've written and produced.
 
 ## CC0 Licensed
 
-All the code here is CC0 licensed.
-
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
+  <a align="center" rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
