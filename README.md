@@ -1,6 +1,6 @@
 # Tutorials
 
-Code and files from content I've written and produced.
+Code and files from content I've written and produced. Note: I no longer update this repository with content from new articles, and this repository is now marked as archived.
 
 ## Contents
 
